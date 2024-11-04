@@ -1,6 +1,6 @@
 # Halo Gaes! 
  
-Saya **Muhammad Akbar permanaatmaja**.<br>
+Saya **M Akbar p**.<br>
  
  
 Silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akbareup/)ku ya.
