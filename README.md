@@ -1,11 +1,11 @@
 # Halo Gaes! 
  
-Saya **M Akbar p**.<br>
+Saya **Muhammad Akbar p**.<br>
  
  
-Silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akbareup/)ku ya.
+Silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akbareup/) punyaku ya.
  
-### 🤖 Statistic
+## 🤖 Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=James1Aurora&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
