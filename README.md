@@ -2,6 +2,15 @@
 
 I’m a **Software Engineering** student with a strong interest in **Web Development** and **Cloud Computing**. I’m interested about building scalable, responsive web applications using modern technologies and optimizing infrastructure in the cloud for better performance and efficiency.
 
+## 🤖 Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=James1Aurora&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=James1Aurora&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+<p>
+
 ### 🚀 Skills:
 - **Programming Languages**: C++, PHP, JavaScript, Python
 - **Frameworks**: Laravel, Node.js, Vue.js, Bootstrap, Tailwind CSS
