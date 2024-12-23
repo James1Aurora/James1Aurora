@@ -1,20 +1,16 @@
-# Halo Gaes! 
+# Hi, I'm M Akbar P. 👋
 
-Saya **Muhammad Akbar P**.<br>
+I’m a **Software Engineering** student with a strong interest in **Web Development** and **Cloud Computing**. I’m interested about building scalable, responsive web applications using modern technologies and optimizing infrastructure in the cloud for better performance and efficiency.
 
-Silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/akbareup/) punyaku ya.
+### 🚀 Skills:
+- **Programming Languages**: C++, PHP, JavaScript, Python
+- **Frameworks**: Laravel, Node.js, Vue.js, Bootstrap, Tailwind CSS
+- **Databases**: MySQL
+- **DevOps & Cloud**: Docker, Google Cloud, Apache, Nginx
+- **Version Control**: Git
 
----
-
-## 👨🏻‍💻 Statistic
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=James1Aurora&theme=onedark" alt="Progress" />
-</p>
-
----
-
-## 💻 Technology Stack
-<p>
+### 💻 Technologies I Work With:
+<div>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -32,6 +28,13 @@ Silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/akbareup/) punyaku ya.
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-</p>
+</div>
 
----
+### 🌱 Recent Projects:
+- **[Project 1](#)**: AcneScan 
+
+
+### 🌍 Let's Connect:
+- **LinkedIn**: [linkedin.com/in/akbareup](#)
+
+I love discussing web development, cloud computing, or any tech-related topics. Feel free to reach out!
