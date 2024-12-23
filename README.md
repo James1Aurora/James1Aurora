@@ -44,6 +44,6 @@ I’m a **Software Engineering** student with a strong interest in **Web Develop
 
 
 ### 🌍 Let's Connect:
-- **LinkedIn**: [[linkedin.com/in/akbareup](https://www.linkedin.com/in/akbareup/)](#)
+- **LinkedIn**: [linkedin.com/in/akbareup(https://www.linkedin.com/in/akbareup/)](#)
 
 I love discussing web development, cloud computing, or any tech-related topics. Feel free to reach out!
