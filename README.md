@@ -39,11 +39,8 @@ I’m a **Software Engineering** student with a strong interest in **Web Develop
   <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </div>
 
-### 🌱 Recent Projects:
-- **[Project 1](#)**: AcneScan 
-
 
 ### 🌍 Let's Connect:
-- **LinkedIn**: [linkedin.com/in/akbareup(https://www.linkedin.com/in/akbareup/)](#)
+- **LinkedIn**: https://www.linkedin.com/in/akbareup/
 
 I love discussing web development, cloud computing, or any tech-related topics. Feel free to reach out!
