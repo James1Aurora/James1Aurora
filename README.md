@@ -13,7 +13,7 @@ I’m a **Software Engineering** student with a strong interest in **Web Develop
 
 ## 🚀 Skills:
 - **Programming Languages**: HTML, CSS, C++, PHP, JavaScript, Python
-- **Frameworks**: Laravel, React.js, Bootstrap, Tailwind CSS
+- **Frameworks**: Laravel, Vue.js, React.js, Bootstrap, Tailwind CSS
 - **Databases**: MySQL
 - **DevOps & Cloud**: Docker, Google Cloud, Apache, Nginx
 - **Version Control**: Git
