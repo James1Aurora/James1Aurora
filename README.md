@@ -44,3 +44,5 @@ I’m a **Software Engineering** student with a strong interest in **Web Develop
 - **LinkedIn**: https://www.linkedin.com/in/akbareup/
 
 I love discussing web development, cloud computing, or any tech-related topics. Feel free to reach out!
+![Profile Views](https://komarev.com/ghpvc/?username=James1Aurora&label=Profile%20views&color=blue&style=flat)  
+
