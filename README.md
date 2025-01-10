@@ -2,13 +2,15 @@
 
 I’m a **Software Engineering** student with a strong interest in **Web Development** and **Cloud Computing**. I’m interested about building scalable, responsive web applications using modern technologies and optimizing infrastructure in the cloud for better performance and efficiency.
 
-## 🤖 Statistic
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=James1Aurora&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" /> </p>
-📊 GitHub Stats
+
+## ✨ 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+</p>
+
+## 📊 GitHub Stats
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=James1Aurora&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James1Aurora&layout=compact&theme=radical" alt="Top Languages" /> </p>
-🚀 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=James1Aurora&theme=radical" alt="GitHub Streak" /> </p>
+
 
 ## 🚀 Technology Stack
 ## Web Development
