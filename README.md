@@ -23,6 +23,7 @@ I’m a **Software Engineering** student with a strong interest in **Web Develop
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/daisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" />
+  <img src="https://img.shields.io/badge/chakra_ui-%23319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" /> </div>
 </div>
 
 
